@@ -1,0 +1,18 @@
+{
+  "name": "edrp",
+  "version": "1.0.0",
+  "description": "Elite Dangerous Rich Presence",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Michel3951 <contact@michel3951.com><github: Michel3951>",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "github:discordjs/rpc",
+    "discord.js": "^11.4.2",
+    "moment": "^2.24.0",
+    "path": "^0.12.7"
+  }
+}
